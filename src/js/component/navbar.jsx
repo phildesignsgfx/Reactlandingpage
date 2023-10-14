@@ -5,7 +5,7 @@ import rigoImage from "../../img/rigo-baby.jpg";
 
 //create your first component
 const Navbar = () => {
-	return (<nav class="navbar bg-body-tertiary bg-secondary bg-gradient">
+	return (<nav class="navbar bg-body-tertiary bg-dark">
     <div className="container-fluid">
       <a className="navbar-brand text-white">Navbar</a>
       <form class="d-flex" role="search">
